@@ -1,4 +1,4 @@
-![image](https://github.com/alakerkeni/Cardiovascular-disease-detection/assets/132003791/5144cfc4-9fd5-4a66-9bba-a4b12766585b)# Project Goal :
+# Project Goal :
 a model using decision tree to classify thepatients to be healthy or suffering from
 cardiovascular disease based on the
 given attributes.
