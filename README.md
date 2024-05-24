@@ -9,5 +9,5 @@ given attributes.
 
 2. upload the cardio_train.csv file to Google Colab
    
-![image](https://github.com/alakerkeni/Cardiovascular-disease-detection/assets/132003791/657bfec2-f948-4a0d-bd76-f883803b8ff9)
+    ![image](https://github.com/alakerkeni/Cardiovascular-disease-detection/assets/132003791/657bfec2-f948-4a0d-bd76-f883803b8ff9)
 
